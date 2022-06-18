@@ -1,2 +1,1 @@
-# react-spa-best-template
-react-spa-best-template
+react开发最好的框架，供大家克隆使用，在新建单页项目时可以直接克隆，有优质的项目结构，免去繁琐的新建文档时间。
